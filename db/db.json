@@ -1,0 +1,28 @@
+{
+  "details": [
+    {
+      "name": "bidyut12",
+      "email": "bidyut12@gmail.com",
+      "phone": "324567543626",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "bikash",
+      "email": "bikash@gmail.com",
+      "phone": "99445543"
+    },
+    {
+      "id": 3,
+      "name": "boruah",
+      "email": "boruah@gmail.com",
+      "phone": "8853567543"
+    },
+    {
+      "name": "bbb",
+      "email": "bbbb@gmail.com",
+      "phone": "888899999",
+      "id": 4
+    }
+  ]
+}
